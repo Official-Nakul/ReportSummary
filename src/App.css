@@ -123,7 +123,7 @@ p {
 }
 /*-----------------------MediaQuery--------------------*/
 
-@media (0px<=width<=375px) {
+@media (0px<=width<=400px) {
   .container {
     height: 45em;
     width: auto;
